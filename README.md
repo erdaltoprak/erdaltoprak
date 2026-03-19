@@ -12,9 +12,10 @@
 
 ## Current Projects
 
+- 👨🏻‍💻 **[Website](https://github.com/erdaltoprak/erdaltoprak.com)** - My personnal website with Astro 5
 - 📦 **[ContainerUtility](https://github.com/erdaltoprak/ContainerUtility)** - The missing macOS app to manage your containers
 - 🔉 **[AudioUtility](https://github.com/erdaltoprak/AudioUtility)** - A macOS menu bar to manage input/output priorities
-- 👨🏻‍💻 **[DevUtility](https://github.com/erdaltoprak/DevUtility)** - An iOS/macOS collection of small, focused developer utilities
+- ⚙️ **[DevUtility](https://github.com/erdaltoprak/DevUtility)** - An iOS/macOS collection of small, focused developer utilities
 
 ## Legacy Projects
 
